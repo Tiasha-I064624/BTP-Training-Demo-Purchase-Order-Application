@@ -1,0 +1,11 @@
+### Create Purchase Order
+
+POST http://localhost:4004/service/orders/PurchaseOrders
+Content-Type: application/json
+
+{ "ID": "20466922-7d57-4e76-b14c-e53fd97dcb11",
+  "purchaseorder": "450001",
+  "potype": "NB",
+  "approvalstatus": "Approved",
+  "quantity": 5,
+  "companycode": 1010 }

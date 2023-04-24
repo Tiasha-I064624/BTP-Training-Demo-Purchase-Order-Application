@@ -1,0 +1,5 @@
+purchaseorder;potype;approvalstatus;quantity;companycode
+450001;NB;Approved;05;1010
+450002;UB;InApproval;02;1040
+450003;UD;Rejected;02;2010
+450005;UB;InApproval;02;2130

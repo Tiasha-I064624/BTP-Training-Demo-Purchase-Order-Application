@@ -1,0 +1,6 @@
+parent_purchaseorder;purchaseorderitem;itemdescription;plant;price
+450001;00010;FlatItem1;1010;20
+450002;00010;FlatItem1;1010;30
+450002;00020;FlatItem2;1020;40
+
+
